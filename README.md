@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Abrar ASyed!](https://www.linkedin.com/in/abrar-syed/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Abrar Syed!](https://www.linkedin.com/in/abrar-syed/) 
 <!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="mailto:abrarsyed16032001@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
+<a href="https://www.youtube.com/channel/UC9M3YX3LZXVzetCHp81QOBw">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 🌱 Interested in Robotics </br>
 
 ![Aakash's github stats](https://github-readme-stats.vercel.app/api/?username=sudo-apt-Abrar&count_private=true&theme=tokyonight&showicons=true)&nbsp;&nbsp;
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sudo-apt-Abrar&layout=compact&langs_count=8)
+![Aakash's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-apt-Abrar&langs_count=5&theme=tokyonight)
 <br />
-**![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)**
+
