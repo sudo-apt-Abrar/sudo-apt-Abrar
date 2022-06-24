@@ -4,7 +4,7 @@
 Developer from Hyderabad, India. 
 
 - 🌐 Visit my [porfolio website](https://abrarsyed.in/) for complete background and contact.
-- ✍️ [Medium Profile](https://pr2tik1.medium.com/)
+- ✍️ [Medium Profile](https://medium.com/@abrarahmedsyed/)
 
 ---
 <p align = "center">
