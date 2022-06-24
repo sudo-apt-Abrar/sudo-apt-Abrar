@@ -1,37 +1,13 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Abrar Syed!](https://www.linkedin.com/in/abrar-syed/) 
+<a href="https://twitter.com/abrarasyed" target="_blank" rel="nofollow"><img align="right" alt="Abrar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/abrar-syed/" target="_blank" rel="nofollow"><img align="right" alt="Abrar's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.youtube.com/channel/UC9M3YX3LZXVzetCHp81QOBw" target="_blank" rel="nofollow"><img align="right" alt="Abrar's YT" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 
-<!--
-Here are some ideas to get you started:
+## Hi 👋 I am Abrar
+Developer from Hyderabad, India. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://www.linkedin.com/in/abrar-syed/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/abrarasyed">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:abrarsyed16032001@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UC9M3YX3LZXVzetCHp81QOBw">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+- 🌐 Visit my [porfolio website](https://abrarsyed.in/) for complete background and contact.
+- ✍️ [Medium Profile](https://pr2tik1.medium.com/)
 
-
-<br />
-
-### About Me 🚀
-🌱 Interested in Robotics and Football</br>
-
-![Aakash's github stats](https://github-readme-stats.vercel.app/api/?username=sudo-apt-Abrar&count_private=true&theme=tokyonight&showicons=true)&nbsp;&nbsp;
-![Aakash's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-apt-Abrar&langs_count=5&theme=tokyonight)
-<br />
-
+---
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=sudo-apt-Abrar&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sudo-apt-Abrar&theme=dark&hide_border=true" width = 400>
+</p>
